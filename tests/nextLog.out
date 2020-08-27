@@ -1,0 +1,177 @@
+0    [Thread-0]  INFO 06 Jul 21:14:52 [Thread-0] Netz  - Monitor thread started!
+703  [Thread-0]  INFO 06 Jul 21:14:53 [Thread-0] Netz  - Packet received
+6531 [Thread-0]  INFO 06 Jul 21:14:59 [Thread-0] Netz  - Packet saved
+6562 [Thread-0]  INFO 06 Jul 21:14:59 [Thread-0] Netz  - Packet received
+6578 [Thread-0]  INFO 06 Jul 21:14:59 [Thread-0] Netz  - Packet received
+6578 [Thread-0]  INFO 06 Jul 21:14:59 [Thread-0] Netz  - Packet received
+9672 [Thread-0]  INFO 06 Jul 21:15:02 [Thread-0] Netz  - Packet saved
+9672 [Thread-0]  INFO 06 Jul 21:15:02 [Thread-0] Netz  - Packet received
+9687 [Thread-0]  INFO 06 Jul 21:15:02 [Thread-0] Netz  - Packet saved
+9687 [Thread-0]  INFO 06 Jul 21:15:02 [Thread-0] Netz  - Packet received
+10031 [Thread-0]  INFO 06 Jul 21:15:02 [Thread-0] Netz  - Packet saved
+10031 [Thread-0]  INFO 06 Jul 21:15:02 [Thread-0] Netz  - Packet received
+14875 [Thread-0]  INFO 06 Jul 21:15:07 [Thread-0] Netz  - Packet saved
+14875 [Thread-0]  INFO 06 Jul 21:15:07 [Thread-0] Netz  - Packet received
+15812 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15812 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15843 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15843 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15843 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15843 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15859 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15859 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15859 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15859 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15875 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15875 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15875 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15875 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+15875 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet saved
+15875 [Thread-0]  INFO 06 Jul 21:15:08 [Thread-0] Netz  - Packet received
+20375 [Thread-0]  INFO 06 Jul 21:15:13 [Thread-0] Netz  - Packet saved
+20375 [Thread-0]  INFO 06 Jul 21:15:13 [Thread-0] Netz  - Packet received
+22640 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22640 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+22640 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22656 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+22656 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22656 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet saved
+22672 [Thread-0]  INFO 06 Jul 21:15:15 [Thread-0] Netz  - Packet received
+27187 [Thread-0]  INFO 06 Jul 21:15:19 [Thread-0] Netz  - Packet saved
+27187 [Thread-0]  INFO 06 Jul 21:15:19 [Thread-0] Netz  - Packet received
+27187 [Thread-0]  INFO 06 Jul 21:15:19 [Thread-0] Netz  - Packet saved
+27187 [Thread-0]  INFO 06 Jul 21:15:19 [Thread-0] Netz  - Packet received
+31687 [Thread-0]  INFO 06 Jul 21:15:24 [Thread-0] Netz  - Packet saved
+31687 [Thread-0]  INFO 06 Jul 21:15:24 [Thread-0] Netz  - Packet received
+36234 [Thread-0]  INFO 06 Jul 21:15:28 [Thread-0] Netz  - Packet saved
+36234 [Thread-0]  INFO 06 Jul 21:15:28 [Thread-0] Netz  - Packet received
+40734 [Thread-0]  INFO 06 Jul 21:15:33 [Thread-0] Netz  - Packet saved
+40734 [Thread-0]  INFO 06 Jul 21:15:33 [Thread-0] Netz  - Packet received
+43000 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet saved
+43000 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet received
+43015 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet saved
+43015 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet received
+43047 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet saved
+43047 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet received
+43047 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet saved
+43047 [Thread-0]  INFO 06 Jul 21:15:35 [Thread-0] Netz  - Packet received
+47562 [Thread-0]  INFO 06 Jul 21:15:40 [Thread-0] Netz  - Packet saved
+47562 [Thread-0]  INFO 06 Jul 21:15:40 [Thread-0] Netz  - Packet received
+0    [main] ERROR 11 Jul 21:15:05 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:16:51 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:17:21 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:17:31 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:24:23 [main] Netz  - Error while communicating with database
+144  [main] ERROR 11 Jul 21:24:23 [main] Netz  - Error while communicating with database
+1    [main] ERROR 11 Jul 21:24:36 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:26:52 [main] Netz  - Error while communicating with database
+65   [main] ERROR 11 Jul 21:26:52 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:27:59 [main] Netz  - Error while communicating with database
+66   [main] ERROR 11 Jul 21:27:59 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:28:18 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:58:35 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:59:40 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:59:52 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 21:59:58 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 22:00:15 [main] Netz  - Error while communicating with database
+1    [main] ERROR 11 Jul 22:00:52 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 22:08:59 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 22:09:15 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 22:09:27 [main] Netz  - Error while communicating with database
+0    [main] ERROR 11 Jul 22:11:21 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 19:46:25 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 19:47:26 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 19:47:32 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 19:49:15 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 19:53:17 [main] Netz  - Error while communicating with database
+1    [main] ERROR 12 Jul 19:56:56 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 19:59:10 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 20:03:15 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 20:04:35 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 20:05:11 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 20:07:10 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 22:04:43 [main] Netz  - Error while communicating with database
+183  [main] ERROR 12 Jul 22:04:43 [main] Netz  - Error while communicating with database
+0    [main] ERROR 12 Jul 22:04:53 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 20:47:26 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 20:49:59 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 20:56:20 [main] Netz  - Error while communicating with database
+280  [main] ERROR 13 Jul 20:56:20 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 20:58:07 [main] Netz  - Error while communicating with database
+1    [main] ERROR 13 Jul 20:59:15 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 21:52:53 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 21:53:41 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 21:55:30 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 21:57:43 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 21:58:28 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 22:02:35 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 22:03:23 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 22:03:41 [main] Netz  - Error while communicating with database
+0    [main] ERROR 13 Jul 22:07:47 [main] Netz  - Error while communicating with database
+0    [Thread-0] ERROR 18 Jul 21:00:18 [Thread-0] Netz  - Error while communicating with database
+27   [Thread-0] ERROR 18 Jul 21:00:18 [Thread-0] Netz  - TrafficDAOException: Error while communicating with database
+0    [main] ERROR 18 Jul 21:07:46 [main] Netz  - Error while communicating with database
+0    [Thread-0]  INFO 18 Jul 21:19:53 [Thread-0] Netz  - Monitor thread started!
+5023 [Thread-0]  INFO 18 Jul 21:19:58 [Thread-0] Netz  - Packet received
+12049 [Thread-0]  INFO 18 Jul 21:20:05 [Thread-0] Netz  - Packet saved
+12049 [Thread-0]  INFO 18 Jul 21:20:05 [Thread-0] Netz  - Packet received
+16553 [Thread-0]  INFO 18 Jul 21:20:10 [Thread-0] Netz  - Packet saved
+16553 [Thread-0]  INFO 18 Jul 21:20:10 [Thread-0] Netz  - Packet received
+16896 [Thread-0]  INFO 18 Jul 21:20:10 [Thread-0] Netz  - Packet saved
+16896 [Thread-0]  INFO 18 Jul 21:20:10 [Thread-0] Netz  - Packet received
+21401 [Thread-0]  INFO 18 Jul 21:20:14 [Thread-0] Netz  - Packet saved
+21401 [Thread-0]  INFO 18 Jul 21:20:14 [Thread-0] Netz  - Packet received
+28160 [Thread-0]  INFO 18 Jul 21:20:21 [Thread-0] Netz  - Packet saved
+28160 [Thread-0]  INFO 18 Jul 21:20:21 [Thread-0] Netz  - Packet received
+32994 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet saved
+32995 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet received
+32999 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet saved
+33000 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet received
+33003 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet saved
+33004 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet received
+33006 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet saved
+33007 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet received
+33010 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet saved
+33011 [Thread-0]  INFO 18 Jul 21:20:26 [Thread-0] Netz  - Packet received
+33652 [Thread-0]  INFO 18 Jul 21:20:27 [Thread-0] Netz  - Packet saved
+33653 [Thread-0]  INFO 18 Jul 21:20:27 [Thread-0] Netz  - Packet received
+33668 [Thread-0]  INFO 18 Jul 21:20:27 [Thread-0] Netz  - Packet saved
+33669 [Thread-0]  INFO 18 Jul 21:20:27 [Thread-0] Netz  - Packet received
+38172 [Thread-0]  INFO 18 Jul 21:20:31 [Thread-0] Netz  - Packet saved
+38172 [Thread-0]  INFO 18 Jul 21:20:31 [Thread-0] Netz  - Packet received
+44927 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+44928 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+44932 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+44933 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+44936 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+44936 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+44940 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+44940 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+44992 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+44993 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+44997 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+44997 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+45003 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+45004 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+45006 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+45007 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+45014 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+45014 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+45018 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet saved
+45018 [Thread-0]  INFO 18 Jul 21:20:38 [Thread-0] Netz  - Packet received
+49523 [Thread-0]  INFO 18 Jul 21:20:42 [Thread-0] Netz  - Packet saved
+49523 [Thread-0]  INFO 18 Jul 21:20:42 [Thread-0] Netz  - Packet received
+0    [main] ERROR 18 Jul 21:36:37 [main] Netz  - Error while communicating with database
+0    [main] ERROR 19 Jul 20:05:48 [main] Netz  - Error while communicating with database
+0    [main] ERROR 29 Jul 19:47:17 [main] Netz  - Error while communicating with database
+0    [main] ERROR 29 Jul 19:56:29 [main] Netz  - Error while communicating with database
+0    [main] ERROR 29 Jul 20:01:31 [main] Netz  - Error while communicating with database
+0    [main] ERROR 27 Ago 19:31:59 [main] Netz  - Error while communicating with database
+0    [main] ERROR 27 Ago 19:37:31 [main] Netz  - Error while communicating with database
